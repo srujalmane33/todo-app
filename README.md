@@ -1,50 +1,28 @@
-✅ Todo App (React + Vite)
+# 📝 Todo App (React + Vite)
 
-A modern and simple Todo Application built using React and Vite that allows users to add, complete, and delete tasks with a clean UI.
+A simple, fast, and responsive **Todo Application** built using **React and Vite**. This app allows users to add, complete, and delete tasks with a clean and modern user interface.
 
-✨ Features
+---
 
-• ➕ Add new tasks
-• ✅ Mark tasks as completed
-• ❌ Delete tasks
-• ⚡ Fast performance using Vite
-• 🎨 Clean and responsive UI
-• ♻️ React component-based architecture
+## 🚀 Features
 
-🛠️ Built With
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- ❌ Delete tasks
+- ⚡ Fast performance with Vite
+- 🎨 Clean and responsive UI
+- ♻️ Component-based architecture
 
-• React
-• Vite
-• JavaScript (ES6)
-• CSS
+---
 
-📂 Folder Structure
-todo-app
-│
-├── public
-│
-├── src
-│   ├── components
-│   │   ├── Todo.jsx
-│   │   ├── TodoItems.jsx
-│   │
-│   ├── assets
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│
-├── index.html
-├── package.json
+## 🛠️ Tech Stack
 
-📚 What I Learned
+- React
+- Vite
+- JavaScript (ES6)
+- CSS
 
-• React fundamentals
-• Components
-• Props
-• State management
-• Event handling
-• Project structure
-
+---
 
 # React + Vite
 
